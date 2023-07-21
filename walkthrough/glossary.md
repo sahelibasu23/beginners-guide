@@ -201,7 +201,7 @@ To transfer a repository means to change the owner of a repository. The new owne
 Users are people with personal GitHub accounts. Each user has a personal profile, and can own multiple repositories, public or private. They can create or be invited to join organizations or collaborate on another user's repository.
 
 ## username
-A user's handle on GitHub.
+A user's handle on GitHub. X
 
 ## watch
 You can watch a repository or issue to receive notifications when updates are made to an issue or pull request.
